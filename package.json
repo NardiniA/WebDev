@@ -1,0 +1,33 @@
+{
+    "title": "Modern Business",
+    "name": "startbootstrap-modern-business",
+    "version": "4.2.2",
+    "description": "A multipurpose HTML website template built with Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://startbootstrap.com/template-overviews/modern-business",
+    "bugs": {
+        "url": "https://github.com/NardiniA/WebDev/issues",
+        "email": "feedback@domain.com"
+    },
+    "license": "MIT",
+    "author": "Start Bootstrap, Antonio Nardini",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)",
+        "Antonio Nardini (Local Web Developer)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StartBootstrap/startbootstrap-modern-business.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.5.0",
+        "jquery": "3.5.1"
+    }
+}
